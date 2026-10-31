@@ -1,0 +1,9 @@
+[Bb]in/
+[Oo]bj/
+*.suo
+*.user
+*.sln.docstates
+.vs/
+.vscode/
+*.userprefs
+appsettings.Development.json
